@@ -18,9 +18,9 @@ dependencies:
 Also, you can use pub command to this email validator flutter package.
 Like this:
 
-'''bash
+```bash
 $ dart pub add email_validator_flutter
-'''
+```
 
 #### 2. Install it
 
